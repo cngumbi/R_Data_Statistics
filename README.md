@@ -29,4 +29,6 @@ eg, pacman::p_load(pacman, bibliometrix, dplyr, GGally, ggplot2, ggthemes, ggvis
       header-the header can be either us true or fulse 
       sep-this argumnt is used to specifies the fiie spabce type
       
-      
+ # To specify the length of the load data
+ the code to be used is options(max.print=lenth of the file)
+ eg. options(max.print = 10000000) fo our file int depends with yur file.
