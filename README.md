@@ -20,4 +20,13 @@ eg, pacman::p_load(pacman, bibliometrix, dplyr, GGally, ggplot2, ggthemes, ggvis
  install.package("the name of package to be installed")
  eg. install.package("bibliometrix")
  
-    
+ # how to load the file in R studio 
+ To load a manualy craeted bibliometrix  file in Rstudio us the following code
+ X<-read.csv(file.choose(), header = TRUE, sep = ",")
+      X- this is the variable we've created to store the file
+      read.csv()- this is a bluid i function that enables you to select a file with in your computer
+      file.choose()-here it's used a an argument. it's a function that gives you the power to upload or choose a file from the desktop
+      header-the header can be either us true or fulse 
+      sep-this argumnt is used to specifies the fiie spabce type
+      
+      
