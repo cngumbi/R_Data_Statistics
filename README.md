@@ -15,4 +15,9 @@ eg, pacman::p_load(pacman, bibliometrix, dplyr, GGally, ggplot2, ggthemes, ggvis
     to remove all the packages loaded use pacman::p_unload(all) to unload all the packges loadd
     to remove one or two packages use pacman::p_unload(the name of the package to be unloaded)
     eg pacman::p_uload(bibliometrix) or pacman::p_unload(frequency, shiny, anyother package to unload)
+ #How to install packages in R
+ To install a package in R studio use this code
+ install.package("the name of package to be installed")
+ eg. install.package("bibliometrix")
+ 
     
