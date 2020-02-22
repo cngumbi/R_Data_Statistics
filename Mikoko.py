@@ -18,7 +18,7 @@ import pandas as pd
 from pandas import ExcelWriter
 from pandas import ExcelFile
 
-#import the mikoko csv file
+#import the mikoko csv file and the new savedrecs  text file
 file = r'Mikoko.csv'
 ftext = r'savedrecs.txt'
 df = pd.read_csv(file)
