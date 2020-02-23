@@ -30,6 +30,11 @@ dataf = pd.read_fwf(ftext)
 print('Max', df['TotalCitations'].max())
 print('Min', df['TotalCitations'].min())
 
+#identify if the files are present
+print(df)
+print(dataf)
+
+#print('Max', dataf['Z9'].max())
 """
 
 #psyco.full()

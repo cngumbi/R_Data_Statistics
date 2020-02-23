@@ -1,0 +1,58 @@
+{
+    "Articles": [
+        {
+        "PT":"J",
+        "AU": [
+                "Owuor", 
+                "Margaret Awuor Mulwa", 
+                "Richard Otieno", 
+                "Philip Icely", 
+                "John Newton", 
+                "Alice" 
+            ],
+        "TI": "Valuing mangrove biodiversity and ecosystem services: A deliberative choice experiment in Mida Creek, Kenya",
+        "SO": " ECOSYSTEM SERVICES",
+        "VL": "40",
+        "AR": "UNSP 101040",
+        "DI": "10.1016/j.ecoser.2019.101040",
+        "PD": "DEC 2019",
+        "PY": "2019",
+        "ZB": "0",
+        "ZR": "0",
+        "Z8": "0",
+        "TC": "1",
+        "ZS": "0",
+        "Z9": "1",
+        "SN": "2212-0416",
+        "UT": "WOS:000496918500017"
+        },
+        {
+            "PT": "J",
+            "AU":[ "Cannicci", 
+                "Stefano Mostert",
+                "Bruce Fratini",
+                "Sara McQuaid", 
+                "Christopher D. Porri", 
+                "Francesca"],
+            "TI": "Recruitment limitation and competent settlement of sesarmid crab larvae within East African mangrove forests",
+            "SO": "MARINE ECOLOGY PROGRESS SERIES",
+            "VL": 626,
+            "BP": 123,
+            "EP": 133,
+            "DI": "10.3354/meps13062",
+            "PD" :"SEP 12 2019",
+            "PY": 2019,
+            "RI": "Cannicci, Stefano/L-7136-2015",
+            "OI": "Cannicci, Stefano/0000-0002-6544-0213",
+            "ZR": 0,
+            "ZB": 0,
+            "TC": 0,
+            "ZS": 0,
+            "Z8": 0,
+            "Z9": 0,
+            "SN": "0171-8630",
+            "EI": "1616-1599",
+            "UT": "WOS:000485739800010"   
+        }
+    ]
+}
