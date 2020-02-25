@@ -19,20 +19,20 @@ from pandas import ExcelWriter
 from pandas import ExcelFile
 
 #import the mikoko csv file and the new savedrecs  text file
-file = r'Mikoko.csv'
-ftext = r'savedrecs.txt'
+file = r'Mikoko1.csv'
+#ftext = r'savedrecs.txt'
 df = pd.read_csv(file)
-dataf = pd.read_fwf(ftext)
+#dataf = pd.read_fwf(ftext)
 
 #or dataf = pd.read_csv(ftext, delimiter = '\t', index_col = False)
 #print(df)
 
-print('Max', df['TotalCitations'].max())
-print('Min', df['TotalCitations'].min())
+#print('Max', df['Volume'].max())
+#print('Min', df['TotalCitations'].min())
 
 #identify if the files are present
 print(df)
-print(dataf)
+#print(dataf)
 
 #print('Max', dataf['Z9'].max())
 """
