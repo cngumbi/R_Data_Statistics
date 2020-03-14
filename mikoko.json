@@ -1387,29 +1387,28 @@
             "EI": "1526-100X",
             "UT": "WOS:000344480300016"
 },
-
-PT J
-AU Tripathi, Nimisha
-   Singh, Raj S.
-TI Inland mangroves of the world Reply
-SO CURRENT SCIENCE
-VL 107
-IS 7
-BP 1094
-EP 1095
-PD OCT 10 2014
-PY 2014
-RI Singh, Raj Shekhar/D-6582-2011; Singh, Raj S./
-OI Singh, Raj S./0000-0003-3268-7057
-ZB 0
-ZR 0
-ZS 0
-TC 0
-Z8 0
-Z9 0
-SN 0011-3891
-UT WOS:000343965800008
-ER
+{
+            "PT": "J",
+            "AU": ["Tripathi", "Nimisha Singh", "Raj S."],
+            "TI": "Inland mangroves of the world Reply",
+            "SO": "CURRENT SCIENCE",
+            "VL": 107,
+            "IS": 7,
+            "BP": 1094,
+            "EP": 1095,
+            "PD": "OCT 10 2014",
+            "PY": 2014,
+            "RI": "Singh, Raj Shekhar/D-6582-2011; Singh, Raj S./",
+            "OI": "Singh, Raj S./0000-0003-3268-7057",
+            "ZB": 0,
+            "ZR": 0,
+            "ZS": 0,
+            "TC": 0,
+            "Z8": 0,
+            "Z9": 0,
+            "SN": "0011-3891",
+            "UT": "WOS:000343965800008"
+},
 
 PT J
 AU Gatune, Charles
