@@ -7,7 +7,7 @@ def main():
         return
 
     print('File Extension: %s' %kind.extension)
-    print('File MIME type: %s' % kind.mime)
+    print('File MIME type: %s' %kind.mime)
 
 if __name__ == '__main__':
     main()
