@@ -1107,157 +1107,127 @@
             "SN": "1439-0108",
             "EI": "1614-7480",
             "UT": "WOS:000365092200012"
-}
-PT J
-AU Kamau, Joseph Nyingi
-   Ngila, Jane Catherine
-   Kirui, Bernard
-   Mwangi, Stephen
-   Kosore, Charles Mitto
-   Wanjeri, Veronica
-   Okumu, Sturcky
-TI Spatial variability of the rate of organic carbon mineralization in a
-   sewage-impacted mangrove forest, Mikindani, Kenya
-SO JOURNAL OF SOILS AND SEDIMENTS
-VL 15
-IS 12
-BP 2466
-EP 2475
-DI 10.1007/s11368-015-1271-7
-PD DEC 2015
-PY 2015
-CT 13th International Conference of the
-   International-Association-for-Sediment-Water-Science (IASWS)
-CY JUL 15-18, 2014-2015
-CL Rhodes Univ, Grahamstown, SOUTH AFRICA
-HO Rhodes Univ
-SP Int Assoc Sediment Water Sci
-OI Kamau, Joseph/0000-0003-4053-4210
-ZS 0
-Z8 0
-TC 0
-ZB 0
-ZR 0
-Z9 0
-SN 1439-0108
-EI 1614-7480
-UT WOS:000365092200013
-ER
-
-PT J
-AU Kihia, C. M.
-   Muthumbi, A.
-   Okondo, J.
-   Nthiga, A.
-   Njuguna, V. M.
-TI Gastropods shell utilization among hermit crabs targeted by bait fishers
-   along a tropical mangrove fringed creek, Mida, Kenya
-SO WETLANDS ECOLOGY AND MANAGEMENT
-VL 23
-IS 5
-BP 921
-EP 932
-DI 10.1007/s11273-015-9429-z
-PD OCT 2015
-PY 2015
-RI Kihia, Charles/V-8987-2019
-ZS 0
-ZR 0
-TC 1
-Z8 0
-ZB 1
-Z9 1
-SN 0923-4861
-EI 1572-9834
-UT WOS:000361630800012
-ER
-
-PT J
-AU Njana, Marco Andrew
-   Eid, Tron
-   Zahabu, Eliakimu
-   Malimbwi, Rogers
-TI Procedures for quantification of belowground biomass of three mangrove
-   tree species
-SO WETLANDS ECOLOGY AND MANAGEMENT
-VL 23
-IS 4
-BP 749
-EP 764
-DI 10.1007/s11273-015-9417-3
-PD AUG 2015
-PY 2015
-Z8 0
-ZB 6
-TC 14
-ZR 0
-ZS 0
-Z9 14
-SN 0923-4861
-EI 1572-9834
-UT WOS:000360094000013
-ER
-
-PT J
-AU Lazzeri, A. M.
-   Mwangi, G.
-   Tasselli, P. L.
-   Vannini, M.
-   Fratini, S.
-TI Lack of inter-individual information exchange among migrating Cerithidea
-   decollata (Mollusca Potamididae)
-SO ETHOLOGY ECOLOGY & EVOLUTION
-VL 27
-IS 3
-BP 251
-EP 258
-DI 10.1080/03949370.2014.928654
-PD JUL 3 2015
-PY 2015
-OI Fratini, Sara/0000-0002-5754-8830
-TC 1
-ZB 1
-Z8 0
-ZS 0
-ZR 0
-Z9 1
-SN 0394-9370
-EI 1828-7131
-UT WOS:000355406000001
-ER
-
-PT J
-AU Huxham, Mark
-   Emerton, Lucy
-   Kairo, James
-   Munyi, Fridah
-   Abdirizak, Hassan
-   Muriuki, Tabitha
-   Nunan, Fiona
-   Briers, Robert A.
-TI Applying Climate Compatible Development and economic valuation to
-   coastal management: A case study of Kenya's mangrove forests
-SO JOURNAL OF ENVIRONMENTAL MANAGEMENT
-VL 157
-BP 168
-EP 181
-DI 10.1016/j.jenvman.2015.04.018
-PD JUL 1 2015
-PY 2015
-RI Huxham, Mark/D-4427-2015; Nunan, Fiona/Q-4660-2018; Briers, Robert/B-5810-2014
-OI Huxham, Mark/0000-0001-7877-6675; Nunan, Fiona/0000-0003-4079-6296;
-   Briers, Robert/0000-0003-0341-1203
-Z8 1
-TC 26
-ZR 0
-ZB 12
-ZS 0
-Z9 26
-SN 0301-4797
-EI 1095-8630
-UT WOS:000355715600017
-PM 25909441
-ER
+},
+{
+            "PT": "J",
+            "AU": ["Kamau", "Joseph Nyingi Ngila", "Jane Catherine Kirui","Bernard Mwangi","Stephen Kosore","Charles Mitto Wanjeri","Veronica Okumu","Sturcky"],
+            "TI": "Spatial variability of the rate of organic carbon mineralization in a sewage-impacted mangrove forest, Mikindani, Kenya",
+            "SO": "JOURNAL OF SOILS AND SEDIMENTS",
+            "VL": 15,
+            "IS": 12,
+            "BP": 2466,
+            "EP": 2475,
+            "DI": "10.1007/s11368-015-1271-7",
+            "PD": "DEC 2015",
+            "PY": 2015,
+            "CT": "13th International Conference of the International-Association-for-Sediment-Water-Science (IASWS)",
+            "CY": "JUL 15-18, 2014-2015",
+            "CL": "Rhodes Univ, Grahamstown, SOUTH AFRICA",
+            "HO": "Rhodes Univ",
+            "SP": "Int Assoc Sediment Water Sci",
+            "OI": "Kamau, Joseph/0000-0003-4053-4210",
+            "ZS": 0,
+            "Z8": 0,
+            "TC": 0,
+            "ZB": 0,
+            "ZR": 0,
+            "Z9": 0,
+            "SN": "1439-0108",
+            "EI": "1614-7480",
+            "UT": "WOS:000365092200013"
+},
+{
+            "PT": "J",
+            "AU": ["Kihia","C. M. Muthumbi","A. Okondo","J.Nthiga","A.Njuguna","V. M."],
+            "TI": "Gastropods shell utilization among hermit crabs targeted by bait fishers along a tropical mangrove fringed creek, Mida, Kenya",
+            "SO": "WETLANDS ECOLOGY AND MANAGEMENT",
+            "VL": 23,
+            "IS": 5,
+            "BP": 921,
+            "EP": 932,
+            "DI": "10.1007/s11273-015-9429-z",
+            "PD": "OCT 2015",
+            "PY": 2015,
+            "RI": "Kihia, Charles/V-8987-2019",
+            "ZS": 0,
+            "ZR": 0,
+            "TC": 1,
+            "Z8": 0,
+            "ZB": 1,
+            "Z9": 1,
+            "SN": "0923-4861",
+            "EI": "1572-9834",
+            "UT": "WOS:000361630800012"
+},
+{
+            "PT": "J",
+            "AU": ["Njana", "Marco Andrew Eid","Tron Zahabu","Eliakimu Malimbwi", "Rogers"],
+            "TI": "Procedures for quantification of belowground biomass of three mangrove tree species",
+            "SO": "WETLANDS ECOLOGY AND MANAGEMENT",
+            "VL": 23,
+            "IS": 4,
+            "BP": 749,
+            "EP": 764,
+            "DI": "10.1007/s11273-015-9417-3",
+            "PD": "AUG 2015",
+            "PY": 2015,
+            "Z8": 0,
+            "ZB": 6,
+            "TC": 14,
+            "ZR": 0,
+            "ZS": 0,
+            "Z9": 14,
+            "SN": "0923-4861",
+            "EI": "1572-9834",
+            "UT": "WOS:000360094000013"
+},
+{
+            "PT": "J",
+            "AU": ["Lazzeri","A. M.Mwangi", "G.Tasselli","P. L.Vannini","M.Fratini", "S."],
+            "TI": "Lack of inter-individual information exchange among migrating Cerithidea decollata (Mollusca Potamididae)",
+            "SO": "ETHOLOGY ECOLOGY & EVOLUTION",
+            "VL": 27,
+            "IS": 3,
+            "BP": 251,
+            "EP": 258,
+            "DI": "10.1080/03949370.2014.928654",
+            "PD": "JUL 3 2015",
+            "PY": 2015,
+            "OI": "Fratini, Sara/0000-0002-5754-8830",
+            "TC": 1,
+            "ZB": 1,
+            "Z8": 0,
+            "ZS": 0,
+            "ZR": 0,
+            "Z9": 1,
+            "SN": "0394-9370",
+            "EI": "1828-7131",
+            "UT": "WOS:000355406000001"
+},
+{
+            "PT": "J",
+            "AU": ["Huxham", "Mark Emerton","Lucy Kairo","James Munyi","Fridah Abdirizak","Hassan Muriuki","Tabitha Nunan","Fiona Briers","Robert A."],
+            "TI": "Applying Climate Compatible Development and economic valuation to coastal management: A case study of Kenya's mangrove forests",
+            "SO": "JOURNAL OF ENVIRONMENTAL MANAGEMENT",
+            "VL": 157,
+            "BP": 168,
+            "EP": 181,
+            "DI": "10.1016/j.jenvman.2015.04.018",
+            "PD": "JUL 1 2015",
+            "PY": 2015,
+            "RI": "Huxham, Mark/D-4427-2015; Nunan, Fiona/Q-4660-2018; Briers, Robert/B-5810-2014",
+            "OI": "Huxham, Mark/0000-0001-7877-6675; Nunan, Fiona/0000-0003-4079-6296; Briers, Robert/0000-0003-0341-1203",
+            "Z8": 1,
+            "TC": 26,
+            "ZR": 0,
+            "ZB": 12,
+            "ZS": 0,
+            "Z9": 26,
+            "SN": "0301-4797",
+            "EI": "1095-8630",
+            "UT": "WOS:000355715600017",
+            "PM": 25909441
+},
 
 PT J
 AU Fusi, Marco
