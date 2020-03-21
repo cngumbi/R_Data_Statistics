@@ -1546,41 +1546,31 @@
             "EI": "1879-1697",
             "UT": "WOS:000337868700029"
 },
-
-PT J
-AU Robert, Elisabeth M. R.
-   Jambia, Abudhabi H.
-   Schmitz, Nele
-   De Ryck, Dennis J. R.
-   De Mey, Johan
-   Kairo, James G.
-   Dahdouh-Guebas, Farid
-   Beeckman, Hans
-   Koedam, Nico
-TI How to catch the patch? A dendrometer study of the radial increment
-   through successive cambia in the mangrove Avicennia
-SO ANNALS OF BOTANY
-VL 113
-IS 4
-BP 741
-EP 752
-DI 10.1093/aob/mcu001
-PD MAR 2014
-PY 2014
-RI de Mey, Johan/F-3602-2011; Beeckman, Hans/I-7653-2019; Robert, Elisabeth/A-8524-2018
-OI Beeckman, Hans/0000-0001-8954-6277; Robert,
-   Elisabeth/0000-0002-3611-7265
-Z8 0
-ZS 0
-ZB 19
-TC 20
-ZR 0
-Z9 20
-SN 0305-7364
-EI 1095-8290
-UT WOS:000332251700015
-PM 24510216
-ER
+{
+            "PT": "J",
+            "AU": ["Robert", "Elisabeth M. R.Jambia", "Abudhabi H.Schmitz", "Nele De Ryck", "Dennis J. R.De Mey","Johan Kairo","James G.Dahdouh-Guebas", "Farid Beeckman", "Hans Koedam", "Nico"],
+            "TI": "How to catch the patch? A dendrometer study of the radial increment through successive cambia in the mangrove Avicennia",
+            "SO": "ANNALS OF BOTANY",
+            "VL": 113,
+            "IS": 4,
+            "BP": 741,
+            "EP": 752,
+            "DI": "10.1093/aob/mcu001",
+            "PD": "MAR 2014",
+            "PY": 2014,
+            "RI": "de Mey, Johan/F-3602-2011; Beeckman, Hans/I-7653-2019; Robert, Elisabeth/A-8524-2018",
+            "OI": "Beeckman, Hans/0000-0001-8954-6277; Robert,Elisabeth/0000-0002-3611-7265",
+            "Z8": 0,
+            "ZS": 0,
+            "ZB": 19,
+            "TC": 20,
+            "ZR": 0,
+            "Z9": 20,
+            "SN": "0305-7364",
+            "EI": "1095-8290",
+            "UT": "WOS:000332251700015",
+            "PM": 24510216
+},
 
 PT J
 AU Raw, J. L.
