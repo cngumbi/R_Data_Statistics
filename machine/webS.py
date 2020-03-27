@@ -6,6 +6,7 @@ open you anaconda environment and lets start"""
 #first find the URL you what to scrape
 #next thing inspect the page you are going to scrape
 
+#you can also use selenium if thats the library you prefer
 #from selenium import webdriver
 import bs4
 from urllib.request import urlopen as url_open
@@ -34,7 +35,7 @@ soup_page = soup(page_web_html, "html.parser")
 #find the class id you'll use
 container = soup_page.findAll('a', href=True, attrs={'class':'_31qSD5'})
 
-#check the length of the container
+#pull the data you want to use
 for contain in container:
     name = contain.find('div', attrs = {'class':'_3wU53n'})
     price = contain.find('div', attrs = {'class':'_1vC4OE _2rQ-NK'})
