@@ -1571,126 +1571,102 @@
             "UT": "WOS:000332251700015",
             "PM": 24510216
 },
+{
+            "PT": "J",
+            "AU":["N.Raw", "J. L.Perissinotto", "R.Taylor", "R. H.Miranda", "N. A. F.Peer"],
+            "TI": "Decline of Terebralia palustris in South African mangroves",
+            "SO": "AFRICAN JOURNAL OF MARINE SCIENCE",
+            "VL": 36,
+            "IS": 4,
+            "BP": 517,
+            "EP": 522,
+            "DI": "10.2989/1814232X.2014.984757",
+            "PD": 2014,
+            "PY": 2014,
+            "RI": "Peer, Nasreen/F-5528-2015; Miranda, Nelson/H-9349-2013; Raw, Jacqueline/",
+            "OI": "Peer, Nasreen/0000-0003-4786-1257; Miranda, Nelson/0000-0002-9308-6688;Raw, Jacqueline/0000-0002-5270-032X",
+            "Z8": 0,
+            "ZB": 3,
+            "TC": 3,
+            "ZR": 0,
+            "ZS": 0,
+            "Z9": 3,
+            "SN": "1814-232X",
+            "EI": "1814-2338",
+            "UT": "WOS:000348061100011"
+},
+{
+            "PT": "J",
+            "AU": ["Gatune", "Warima C.Vanreusel", "Ann Ruwa", "Renison Bossier", "Peter De Troch", "Marleen"],
+            "TI": "Fatty acid profiling reveals a trophic link between mangrove leaf litter biofilms and the post-larvae of giant tiger shrimp Penaeus monodon",
+            "SO": "AQUACULTURE ENVIRONMENT INTERACTIONS",
+            "VL": 6,
+            "IS": 1,
+            "BP": 1,
+            "EP": 10,
+            "DI": "10.3354/aei00117",
+            "PD": 2014,
+            "PY": 2014,
+            "RI": "De Troch, Marleen/AAB-9809-2019; Bossier, Peter GM/A-8118-2008",
+            "OI": "De Troch, Marleen/0000-0002-6800-0299; Bossier, Peter GM/0000-0002-6165-9111",
+            "ZR": 0,
+            "Z8": 0,
+            "ZS": 0,
+            "TC": 4,
+            "ZB": 3,
+            "Z9": 4,
+            "SN": "1869-215X",
+            "EI": "1869-7534",
+            "UT": "WOS:000346418600001"
+},
+{
+            "PT": "J",
+            "AU": ["D.Bosire", "J. O.Kaino", "J.J.Olagoke", "A. O.Mwihaki", "L. M.Ogendi", "G. M.Kairo", "J. G.Berger", "U.Macharia"],
+            "TI": "Mangroves in peril: unprecedented degradation rates of peri-urban mangroves in Kenya",
+            "SO": "BIOGEOSCIENCES",
+            "VL": 11,
+            "IS": 10,
+            "BP": 2623,
+            "EP": 2634,
+            "DI": "10.5194/bg-11-2623-2014",
+            "PD": 2014,
+            "PY": 2014,
+            "RI": "Olagoke, Adewole/O-7277-2019",
+            "OI": "Olagoke, Adewole/0000-0002-0869-329X",
+            "ZB": 9,
+            "ZS": 0,
+            "TC": 11,
+            "Z8": 0,
+            "ZR": 0,
+            "Z9": 13,
+            "SN": "1726-4170",
+            "EI": "1726-4189",
+            "UT": "WOS:000337947500005"
+},
+{
+            "PT": "J",
+            "AU": ["Mkare", "Thomas K.von der Heyden", "Sophie Groeneveld", "Johan C. Matthee", "Conrad A."],
+            "TI": "Genetic population structure and recruitment patterns of three sympatric shallow-water penaeid prawns in Ungwana Bay, Kenya, with implication for fisheries management",
+            "SO": "MARINE AND FRESHWATER RESEARCH",
+            "VL": 65,
+            "IS": 3,
+            "BP": 255,
+            "EP": 266,
+            "DI": "10.1071/MF13047",
+            "PD": 2014,
+            "PY": 2014,
+            "OI": "von der Heyden, Sophie/0000-0001-9166-976X; Matthee, Conrad/0000-0002-6836-069X",
+            "Z8": 0,
+            "ZR": 0,
+            "ZB": 4,
+            "TC": 4,
+            "ZS": 0,
+            "Z9": 4,
+            "SN": "1323-1650",
+            "EI": "1448-6059",
+            "UT": "WOS:000331621400007"
+},
 
-PT J
-AU Raw, J. L.
-   Perissinotto, R.
-   Taylor, R. H.
-   Miranda, N. A. F.
-   Peer, N.
-TI Decline of Terebralia palustris in South African mangroves
-SO AFRICAN JOURNAL OF MARINE SCIENCE
-VL 36
-IS 4
-BP 517
-EP 522
-DI 10.2989/1814232X.2014.984757
-PD 2014
-PY 2014
-RI Peer, Nasreen/F-5528-2015; Miranda, Nelson/H-9349-2013; Raw, Jacqueline/
-OI Peer, Nasreen/0000-0003-4786-1257; Miranda, Nelson/0000-0002-9308-6688;
-   Raw, Jacqueline/0000-0002-5270-032X
-Z8 0
-ZB 3
-TC 3
-ZR 0
-ZS 0
-Z9 3
-SN 1814-232X
-EI 1814-2338
-UT WOS:000348061100011
-ER
-
-PT J
-AU Gatune, Warima C.
-   Vanreusel, Ann
-   Ruwa, Renison
-   Bossier, Peter
-   De Troch, Marleen
-TI Fatty acid profiling reveals a trophic link between mangrove leaf litter
-   biofilms and the post-larvae of giant tiger shrimp Penaeus monodon
-SO AQUACULTURE ENVIRONMENT INTERACTIONS
-VL 6
-IS 1
-BP 1
-EP 10
-DI 10.3354/aei00117
-PD 2014
-PY 2014
-RI De Troch, Marleen/AAB-9809-2019; Bossier, Peter GM/A-8118-2008
-OI De Troch, Marleen/0000-0002-6800-0299; Bossier, Peter
-   GM/0000-0002-6165-9111
-ZR 0
-Z8 0
-ZS 0
-TC 4
-ZB 3
-Z9 4
-SN 1869-215X
-EI 1869-7534
-UT WOS:000346418600001
-ER
-
-PT J
-AU Bosire, J. O.
-   Kaino, J. J.
-   Olagoke, A. O.
-   Mwihaki, L. M.
-   Ogendi, G. M.
-   Kairo, J. G.
-   Berger, U.
-   Macharia, D.
-TI Mangroves in peril: unprecedented degradation rates of peri-urban
-   mangroves in Kenya
-SO BIOGEOSCIENCES
-VL 11
-IS 10
-BP 2623
-EP 2634
-DI 10.5194/bg-11-2623-2014
-PD 2014
-PY 2014
-RI Olagoke, Adewole/O-7277-2019
-OI Olagoke, Adewole/0000-0002-0869-329X
-ZB 9
-ZS 0
-TC 11
-Z8 0
-ZR 0
-Z9 13
-SN 1726-4170
-EI 1726-4189
-UT WOS:000337947500005
-ER
-
-PT J
-AU Mkare, Thomas K.
-   von der Heyden, Sophie
-   Groeneveld, Johan C.
-   Matthee, Conrad A.
-TI Genetic population structure and recruitment patterns of three sympatric
-   shallow-water penaeid prawns in Ungwana Bay, Kenya, with implication for
-   fisheries management
-SO MARINE AND FRESHWATER RESEARCH
-VL 65
-IS 3
-BP 255
-EP 266
-DI 10.1071/MF13047
-PD 2014
-PY 2014
-OI von der Heyden, Sophie/0000-0001-9166-976X; Matthee,
-   Conrad/0000-0002-6836-069X
-Z8 0
-ZR 0
-ZB 4
-TC 4
-ZS 0
-Z9 4
-SN 1323-1650
-EI 1448-6059
-UT WOS:000331621400007
-ER
 
 PT J
 AU Di Nitto, D.
