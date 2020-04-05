@@ -1,9 +1,10 @@
 #use pacman to load all the pakages you'll use for the project
+#if pacman is not installed install it by use install.package("pacman")
 pacman::p_load(pacman, bibliometrix, dplyr, GGally, ggplot2, ggthemes, ggvis,
                httr, lubridate, plotly, rio, rmarkdown, shiny, stringr, tidyr,
                grid, gridExtra, gapminder, tidyverse, frequency)
 
-## ----Data loading--------------------------------------------------------
+## ----Data loading-------------------------------------------------------
 
 #load the files that contains the data
 X<-read.csv(file.choose(), header = TRUE, sep = ",")
