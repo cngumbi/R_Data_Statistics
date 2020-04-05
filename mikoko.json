@@ -1666,38 +1666,31 @@
             "EI": "1448-6059",
             "UT": "WOS:000331621400007"
 },
+{
 
-
-PT J
-AU Di Nitto, D.
-   Neukermans, G.
-   Koedam, N.
-   Defever, H.
-   Pattyn, F.
-   Kairo, J. G.
-   Dahdouh-Guebas, F.
-TI Mangroves facing climate change: landward migration potential in
-   response to projected scenarios of sea level rise
-SO BIOGEOSCIENCES
-VL 11
-IS 3
-BP 857
-EP 871
-DI 10.5194/bg-11-857-2014
-PD 2014
-PY 2014
-RI Pattyn, Frank/AAA-9640-2019; Neukermans, Griet/S-6313-2017
-OI Pattyn, Frank/0000-0003-4805-5636; Neukermans, Griet/0000-0002-8258-3590
-TC 37
-ZB 27
-Z8 0
-ZS 2
-ZR 0
-Z9 39
-SN 1726-4170
-EI 1726-4189
-UT WOS:000334099700021
-ER
+            "PT": "J",
+            "AU": ["F.Di Nitto", "D.Neukermans", "G.Koedam", "N.Defever", "H.Pattyn", "F.Kairo", "J. G.Dahdouh-Guebas"],
+            "TI": "Mangroves facing climate change: landward migration potential in response to projected scenarios of sea level rise",
+            "SO": "BIOGEOSCIENCES",
+            "VL": 11,
+            "IS": 3,
+            "BP": 857,
+            "EP": 871,
+            "DI": "10.5194/bg-11-857-2014",
+            "PD": 2014,
+            "PY": 2014,
+            "RI": "Pattyn, Frank/AAA-9640-2019; Neukermans, Griet/S-6313-2017",
+            "OI": "Pattyn, Frank/0000-0003-4805-5636; Neukermans, Griet/0000-0002-8258-3590",
+            "TC": 37,
+            "ZB": 27,
+            "Z8": 0,
+            "ZS": 2,
+            "ZR": 0,
+            "Z9": 39,
+            "SN": "1726-4170",
+            "EI": "1726-4189",
+            "UT": "WOS:000334099700021"
+},
 
 PT J
 AU Andreetta, Anna
