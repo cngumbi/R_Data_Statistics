@@ -49,9 +49,6 @@ for contain in container:
     prices.append(price.text)
     ratings.append(rating.text)
 
-#check if the data is present on the list
-#print(prices[0])
-
 #save the file in a required format
     dataf = pds.DataFrame({'ProductsName':all_product,'Price':prices,'Rating_and_reveiws ':ratings})
     dataf.to_csv('text_product.csv', index=False, encoding='utf-8')

@@ -8,58 +8,73 @@ open you anaconda environment and lets start"""
 
 #from selenium import webdriver
 import bs4
-from urllib.request import urlopen as url_open
 from bs4 import BeautifulSoup as soup
 import pandas as pds
 import requests
+import smtplib
+import time
 
-#were to store the data collecte
-#all_product =[]
-#prices =[]
-#ratings =[]
 
-my_url = 'https://socialblade.com/youtube/'
+my_url = 'https://www.flipkart.com/laptops/~buyback-guarantee-on-laptops-/pr?sid=6bo%2Cb5g&uniqBStoreParam1=val1&wid=11.productCard.PMU_V2'
 
-html = requests.get(my_url)
+#you can create a header 
+headers = {"User-Agent":'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36'}
 
-#this code will be used to test the progress of the project
-filename = "test.text"
-f = open(filename,'w')
-f.write(html.text)
-f.close()
-#this code will call urllib which will open up a 
-# connection that will grabe the web page 
-#my_client = url_open(my_url)
-#page_web_html = my_client.read()
-#my_client.close()
+prices =[]
 
-#html parser
-#soup_page = soup(page_web_html, "html.parser")
+def webScrap():
+    #this code will grabe the website
+    html_page = requests.get(my_url, headers=headers)
 
-#to check if it works use print statement
-#print(soup_page.h1)
+    #html parser
+    soup_page = soup(html_page.content, "html.parser")
 
-#find the class id you'll use
-#container = soup_page.findAll('a', href=True, attrs={'class':'_31qSD5'})
+    #find the class id you'll use
+    container_trend = soup_page.findAll('a', href=True, attrs={'class':'_31qSD'})
 
-#check the length of the container
-#for contain in container:
-    #name = contain.find('div', attrs = {'class':'_3wU53n'})
-    #price = contain.find('div', attrs = {'class':'_1vC4OE _2rQ-NK'})
-    #rating = contain.find('div', attrs= {'class':'niH0FQ'})
-    #for rate in rating:
-     #   clean_rate = rate.find('span', )   
-    #check if the loop works
-    #print("name: ",  name)
+    #check the length of the container
+    for contain in container_trend:
+        price = contain.find('div', attrs = {'class':'_1vC4OE _2rQ-NK'})
 
-    #all_product.append(name.text)
-    #prices.append(price.text)
-    #ratings.append(rating.text)
+        #prices.append(price.text)
+        #check if the data is present on the 
+        convert_price = price
+    #if (convert_price < 60):
+    #    send_mail()
 
-#check if the data is present on the list
-#print(prices[0])
+        print(convert_price)
 
-#save the file in a required format
-    #dataf = pds.DataFrame({'ProductsName':all_product,'Price':prices,'Rating_and_reveiws ':ratings})
-    #dataf.to_csv('text_product.csv', index=False, encoding='utf-8')
+#create a function to send an email 
+"""def send_mail():
+    #create the function form this point
+    #create a connection with google
+    server = smtplib.SMTP('smtp.gmail.com', 587)
+    server.ehlo()
+    server.starttls() #to encrypt the massage
+    server.ehlo()
 
+    #login to the email
+    server.login('cngumb35@gmail.com','0720543605')
+
+    #create the email
+    subject = 'the views have increased'
+    body = 'check the youtube link: add the link'
+
+    #format the message
+    msg = f"Subject: {subject} \n\n {body}"
+
+    #send the email
+    server.sendmail(
+        'cngumbi35@gmail.com',
+        'afrjon36@gmail.com',
+        msg
+    )
+    print('HEY EMAIL HAS BEEN SENT')
+
+    server.quit()
+
+while(True):
+    webScrap()
+    time.sleep(60 * 60 * 24)
+    """
+webScrap()
